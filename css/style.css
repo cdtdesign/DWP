@@ -1,0 +1,40 @@
+body {
+	font-family: ProximaNova-Light, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#cdt {
+	color: #66ccff;
+}
+
+#cdtdesign {
+	letter-spacing: -.06em;
+	opacity: .5;
+}
+
+#portfolio {
+	font-size: .75em;
+	letter-spacing: .25em;
+	line-height: .5em;
+	color: #999;
+}
+
+hr {
+	width: 95%;
+}
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cube {
+	display: block;
+	float: left;
+/*	background-color: #ccc;*/
+	width: 300px;
+	height: 300px;
+	margin: 30px;
+	padding: 20px;
+	vertical-align: middle;
+}
