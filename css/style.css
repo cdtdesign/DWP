@@ -2,6 +2,12 @@ body {
 	font-family: ProximaNova-Light, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+p {
+	position: relative;
+	top: 35%;
+	line-height: 1em;
+}
+
 #cdt {
 	color: #66ccff;
 }
