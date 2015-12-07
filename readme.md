@@ -26,4 +26,4 @@
 
 7. Testing: further testing to see new feature behavior on remote staging server and among other dev features.
 
-8. Communicate with dev team of successful deployment
+8. Communicate with dev team of successful deployment.
